@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spriter_data scml_version="1.0" generator="BrashMonkey Spriter" generator_version="r6">
+    <folder id="0" name="Back Arm">
+        <file id="0" name="Back Arm/back_hand.png" width="700" height="1800" pivot_x="0.698864" pivot_y="0.364835"/>
+        <file id="1" name="Back Arm/back_lower_arm.png" width="700" height="1800" pivot_x="0.465909" pivot_y="0.501099"/>
+        <file id="2" name="Back Arm/back_upper_arm.png" width="700" height="1800" pivot_x="0.471591" pivot_y="0.494505"/>
+    </folder>
+    <folder id="1" name="Back Leg">
+        <file id="0" name="Back Leg/back_foot.png" width="700" height="1800" pivot_x="0.482955" pivot_y="0.107692"/>
+        <file id="1" name="Back Leg/back_knee.png" width="700" height="1800" pivot_x="0.471591" pivot_y="0.281319"/>
+        <file id="2" name="Back Leg/back_lower_leg.png" width="700" height="1800" pivot_x="0.471591" pivot_y="0.281319"/>
+        <file id="3" name="Back Leg/back_upper_leg.png" width="700" height="1800" pivot_x="0.414773" pivot_y="0.457143"/>
+    </folder>
+    <folder id="2">
+        <file id="0" name="body.png" width="700" height="1800" pivot_x="0.429348" pivot_y="0.412632"/>
+        <file id="1" name="eye.png" width="700" height="1800" pivot_x="0.471591" pivot_y="0.883516"/>
+        <file id="2" name="head.png" width="700" height="1800" pivot_x="0.392045" pivot_y="0.76044"/>
+    </folder>
+    <folder id="3" name="Front Arm">
+        <file id="0" name="Front Arm/front_hand.png" width="700" height="1800" pivot_x="0.715909" pivot_y="0.36044"/>
+        <file id="1" name="Front Arm/front_lower_arm.png" width="700" height="1800" pivot_x="0.471591" pivot_y="0.494505"/>
+        <file id="2" name="Front Arm/front_upper_arm.png" width="700" height="1800" pivot_x="0.397727" pivot_y="0.685714"/>
+    </folder>
+    <folder id="4" name="Front Leg">
+        <file id="0" name="Front Leg/front_foot.png" width="700" height="1800" pivot_x="0.482955" pivot_y="0.107692"/>
+        <file id="1" name="Front Leg/front_knee.png" width="700" height="1800" pivot_x="0.477273" pivot_y="0.272527"/>
+        <file id="2" name="Front Leg/front_lower_leg.png" width="700" height="1800" pivot_x="0.482955" pivot_y="0.276923"/>
+        <file id="3" name="Front Leg/front_upper_leg.png" width="700" height="1800" pivot_x="0.420455" pivot_y="0.452747"/>
+    </folder>
+    <entity id="0" name="entity_000">
+        <animation id="0" name="NewAnimation" length="1000" interval="100">
+            <mainline>
+                <key id="0"/>
+            </mainline>
+        </animation>
+    </entity>
+</spriter_data>
